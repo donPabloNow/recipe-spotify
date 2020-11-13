@@ -1,0 +1,13 @@
+{
+  "id": "spotify",
+  "name": "Spotify",
+  "version": "1.0.0",
+  "description": "Spotify",
+  "main": "index.js",
+  "author": "don Pablo <don@obeyi.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://accounts.spotify.com/en/login?utm_source=webplayer&utm_medium=&utm_campaign=&continue=https:%2F%2Fopen.spotify.com%2Fbrowse",
+    "hasNotificationSound": false
+  }
+}
